@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977141458269",
+    "project_id": "pokerdomdondom",
+    "storage_bucket": "pokerdomdondom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977141458269:android:29c430ea2216d2d8c2b4b4",
+        "android_client_info": {
+          "package_name": "com.pokerhouse.poker.guider.dom.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977141458269-mmpil7b5cfka8jd8nps33pq585ac8b1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkOECIU_dfLx52iXYM7fdSE2oAQxMaIKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977141458269-mmpil7b5cfka8jd8nps33pq585ac8b1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

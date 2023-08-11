@@ -1,0 +1,32 @@
+    <resources>
+        <string name="app_name">Poker</string>
+        <string-array name="groups">
+            <item>Poker Time Travel</item>
+            <item>The magic of rules and combinations</item>
+            <item>At the gaming table: Art and Intuition</item>
+            <item>From Soldiers to Celebrities: Poker in Culture</item>
+            <item>The Era of Television and Poker Stars</item>
+            <item>When Cards Decide Everything: Strategies in Omaha</item>
+            <item>Bluff and Human Psychology</item>
+            <item>Poker In The Age Of Technology</item>
+            <item>Poker: Math and Risk</item>
+            <item>Poker: Evolution and Passion</item>
+        </string-array>
+
+        <string-array name="group_descriptions">
+            <item name="group1_description">Poker has ancient roots and has been developing for many centuries. Its predecessors are found in various cultures, ranging from Persia to France and the USA. It evolved from a variety of card games, and poker is currently one of the most popular gambling games in the world.</item>
+            <item name="group2_description">Poker is played with a deck of 52 standard cards. Players are dealt closed and open cards, and they place bets based on their cards and opportunities. Betting rounds take place during the game, and players can "raise", "pass" or "discard" cards. The winner is determined by the highest combination of five cards or bluff.</item>
+            <item name="group3_description">1) The oldest poker record dates back to 1829.\n2) In the "Wild West" era, poker was a popular entertainment game among scouts and miners.\n3) There are over 10 trillion possible card combinations in poker.\n4) The highest combination is the "Royal Flush", consisting of Ace, King, Queen, Jack and Tens of the same suit.\n5) Professional players masterfully use psychology and nonverbal signals to recognize bluffs and analyze opponents.</item>
+            <item name="group4_description">Poker has continued to evolve and change in different eras and cultures. During the American Civil War, poker became a popular entertainment for soldiers and officers, which helped spread the game throughout the country. Subsequently, at the beginning of the XX century, poker became one of the symbols of American gambling culture, firmly rooted in public life and reflected in literature, cinema and music.</item>
+            <item name="group5_description">Poker began to gain popularity in the American Wild West in the XIX century. At that time, poker became a symbol of gambling and risk. From there, it spread around the world and split into various variations, such as Texas Hold\'em and Omaha.</item>
+            <item name="group6_description">There are many variations of poker, but one of the most popular is Texas Hold em. Players are dealt two closed cards, and five community cards are laid out on the table. Players must make a combination of their two cards and three common ones to win. Texas Hold em also has various betting rounds, including "flop", "turn" and "river".</item>
+            <item name="group7_description">1) The largest prize pool in poker was more than $18 million at the World Series of Poker competitions.\n2) Bluffing is an important part of poker. Players often place bets to make it look like they have a strong combination, even if they don\'t.\n3) In 1970, the first World Series of Poker was held in Las Vegas, and they have since become the main event in the world of poker.\n4) The name "poker" probably came from the French word "poque", which in turn has its roots in the German "pochen" — "to take a chance".\n5) Poker has played a key role in many films, such as Casino Royale and House of Cards.</item>
+            <item name="group8_description">In the middle of the XX century, poker became a television sensation. Broadcasts of poker tournaments allowed viewers to see the strategies of the players and the dynamics of the game. This increased interest in poker and led to the appearance of more variations of the game.</item>
+            <item name="group9_description">Another popular variation of poker is Omaha. In Omaha, players are dealt four closed cards, and the combination must consist of two of them and three community cards. The rules of betting and rounds are similar to Texas Hold\'em, but due to the large number of cards in the hand, the strategies may differ.</item>
+            <item name="group10_description">1) Poker does not depend only on luck. Skill in analyzing the situation, the ability to read opponents and effective strategy also play a huge role.\n2) The World Poker Championship, known as the WSOP, is held annually in Las Vegas and includes dozens of tournaments of different formats and bets.\n3) Thanks to the Internet and online platforms, poker has become available to millions of players from all over the world.\n4) Professional players often use math and statistics to make decisions during the game.\n5) There are many strategies in poker, including aggressive play, passive play, bluff, etc.</item>
+        </string-array>
+
+        <!-- Описания для каждой группы -->
+
+
+    </resources>
